@@ -70,6 +70,15 @@
   text-align:center;
   line-height:normal;
 }
+.sticky_1 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
 .shape {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -94,6 +103,8 @@
 }
 .image {
 }
+.vertical_line {
+}
 ._图片 {
 }
 .marker {
@@ -104,6 +115,10 @@
 ._默认样式 {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
@@ -120,6 +135,9 @@
   font-family:'Noto Sans CJK SC Regular', 'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
+}
+.image1 {
+  color:#000000;
 }
 .refs-design-apple1 {
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -144,6 +162,8 @@
 ._形状1 {
 }
 .box_21 {
+}
+.box_3 {
 }
 .arrow {
 }
@@ -183,4 +203,16 @@
   text-align:left;
 }
 .connector {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+._微软雅黑 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:410;
+  font-style:normal;
+  font-size:14px;
 }
