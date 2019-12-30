@@ -8,7 +8,7 @@
   line-height:normal;
 }
 ._形状 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-style:normal;
   font-size:16px;
   color:#333333;
@@ -59,6 +59,9 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -95,6 +98,13 @@
 .ellipse {
 }
 .line {
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
 }
 .refs-design-apple {
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -215,4 +225,7 @@
   font-weight:410;
   font-style:normal;
   font-size:14px;
+}
+._图片1 {
+  color:#000000;
 }
