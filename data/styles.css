@@ -142,9 +142,18 @@
   text-align:left;
 }
 .refs-design-material {
-  font-family:'Noto Sans CJK SC Regular', 'Noto Sans CJK SC';
+  font-family:'NotoSansCJKsc-Regular', 'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
+}
+.shape1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .image1 {
   color:#000000;
@@ -190,7 +199,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-.shape1 {
+.shape2 {
 }
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
